@@ -68,8 +68,7 @@ Guiding Question:
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website
-- Animation/Hover
+- MultiPage Website with with Animation
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -114,6 +113,4 @@ WD-ProjectName
 ## Resources
 
 <!-- TODO: Add References -->
-| Title | Purpose | Link |
-|-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+All in this webpage is own design
