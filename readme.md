@@ -20,7 +20,7 @@ WD-Hands on activity
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](Rotov)
+![](https://visit-counter.vercel.app/counter.png?page=VianTibay/WD-Template-Project)
 
 ---
 
@@ -113,4 +113,6 @@ WD-ProjectName
 ## Resources
 
 <!-- TODO: Add References -->
-All in this webpage is own design
+| Title | Purpose | Link |
+|-|-|-|
+| Sample Title | Sample purpose would be here like this and this is the example of what it is. | VianTibay.com |
