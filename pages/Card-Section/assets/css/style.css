@@ -192,3 +192,8 @@ transition: all .3s ease-in-out;
     transform: scale(1.1);
 }
    }
+
+   body{
+    background-image: url(https://i.pinimg.com/originals/45/07/bb/4507bbb0616b7712f765a3a0053d1cab.gif);
+    
+   }
