@@ -113,7 +113,9 @@ left: 50%;
     position: relative;
     border-radius: 6px;
     transition: all .1s ease-in-out;
+    color: transparent;
     &:hover{
+        color: black;
         box-shadow: 5px 2px 3px rgb(211, 26, 202) ;
     }
    
@@ -162,10 +164,10 @@ border-radius: 10%;
 }
    }
    .arund{
-color: black;
+color: transparent;
 
     &:hover{
-color: transparent;
+color: black;
 }
    }
    .pokemon{
