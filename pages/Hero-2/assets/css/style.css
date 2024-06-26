@@ -1,0 +1,87 @@
+
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: .9rem 0;
+    margin: 10px 3.1rem;
+    z-index: 4;
+    
+    
+    & .navs{
+        display: flex;
+        align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 2.1rem;
+    & > ul{
+            list-style: none;
+        display: flex;
+        gap: 20px ;
+    
+        align-items: center;
+        & > li a{
+            padding: .9rem 3rem;
+          background-color: brown;
+            color: whitesmoke;
+    padding: 1.1rem 1rem;
+        }
+        }
+    
+        
+    }
+    
+    }
+    a{
+    text-decoration: none;
+    }
+    /* 
+     */
+    .container{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: row-reverse;
+        
+        & > .image{
+        /* outline: 1px solid orange; */
+        float: right;
+        height: 26rem;
+        margin: 2rem 10rem;
+      }
+      & .content{
+        /* outline: 1px solid green; */
+    display: flex;
+    flex-direction: column;
+    
+    margin: 1rem 7rem;
+    & > p{
+    margin-top: -1rem;
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+        width: 25rem;
+    }
+    & > h1{
+        text-align: center;
+        font-size: 60px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    }
+     
+      }
+    }
+    .video-bg{
+        position: absolute;
+        z-index: -1;
+        background-size: cover;
+        margin: -8px;
+        width: 82pc;
+        opacity: .4;  
+        margin-top: -1rem;
+    
+    }
+    body{
+        background-color: black;
+        overflow-x: hidden;  
+    
+    }
+    
