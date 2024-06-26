@@ -41,6 +41,7 @@
     width: 82pc;
     opacity: .4;  
     margin-top: -11rem;
+    -moz-background-size: cover;
     }
     body{
         background-color: black;
