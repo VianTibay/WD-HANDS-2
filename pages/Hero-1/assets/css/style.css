@@ -1,0 +1,98 @@
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: .9rem 0;
+    margin: 10px 3.1rem;
+    z-index: 4;
+    
+    
+    & .navs{
+        display: flex;
+        align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 2.1rem;
+    & > ul{
+            list-style: none;
+        display: flex;
+        gap: 20px ;
+    
+        align-items: center;
+        & > li a{
+            padding: .9rem 3rem;
+          background-color: brown;
+            color: whitesmoke;
+    padding: 1.1rem 1rem;
+        }
+        }
+    
+        
+    }
+    
+    }
+    a{
+    text-decoration: none;
+    }
+    .bg-video{
+        position: absolute;
+    z-index: -1;
+    background-size: cover;
+    margin: -8px;
+    width: 82pc;
+    opacity: .4;  
+    margin-top: -11rem;
+    }
+    body{
+        background-color: black;
+        overflow-x: hidden;
+    }
+     .left-side{
+          color: white;
+          margin: 0 35px ;
+        & .first{
+           font-size: 5rem;
+            text-shadow: 3px 1px 3px red;
+        }
+        & > p{
+            font-size: 1.3rem;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            margin:  -1.5rem 2rem ;
+    
+        }
+    }
+    .footer{
+        /* outline: 1px solid tomato; */
+    margin-top: 21.3rem;
+    width: 89rem;
+    padding: 0 1rem;
+    color:  white;
+    & > .navs{
+        display: flex;
+       margin: 0 20rem;
+    }
+    & > .navs ul{
+        display: flex;
+        list-style: none;
+        gap: 10px;
+        justify-content: center;
+        padding: 0 100px;
+        margin: -2.3rem;
+    & > li a {
+        /* outline: 1px solid green; */
+        font-size: 25px;
+        padding: 1rem;
+           border-radius: 50%;
+        
+        color: black;
+        & > i{
+            /* outline: 1px solid orange; */
+            padding: 1rem 1.3rem;
+        border: 1px solid black;
+        border-radius: 50%;
+    background-color: darkorange;    
+    }
+    }
+    
+    }
+    
+    }
