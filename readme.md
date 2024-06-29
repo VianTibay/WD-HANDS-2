@@ -13,6 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
+This website features an extensive collection of 5 unique hero designs, 5 distinctive static card layouts, and 5 captivating animated card styles, showcasing a diverse range of creative options.
 </div>
 
 <br />
