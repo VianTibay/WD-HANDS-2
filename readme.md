@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-WD-Hands on activity
+WD-Hands-on 2 make a  MultiPages website that have 5-Hero static and 5-card with animation 
 </div>
 
 <br />
@@ -68,7 +68,7 @@ Guiding Question:
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website with with Animation
+- MultiPage Website
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -115,4 +115,4 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | VianTibay.com |
+| Pinterest | i get the picture to this to have a backgroud img | VianTibay.com |
