@@ -9,18 +9,18 @@
     <img src="./assets/img/sh.gif" alt="Rotov" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Rotciv Creation.mb</h3>
+  <h3 align="center">Hands-on 2</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-WD-Hands-on 2 make a  MultiPages website that have 5-Hero static and 5-card with animation 
+About Hero and Cards. "Cards" and the "hero" section are two often utilized web design elements that improve a website's usability and aesthetic appeal. As a major introduction or focus point, the hero section typically shows boldly at the top of a webpage. It's normally the first thing customers see when they visit the website and consists of a sizable background or image with text or call-to-action buttons.
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=VianTibay/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=VianTibay/WD-Hands-2)
 
 ---
 
@@ -68,7 +68,10 @@ Guiding Question:
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website
+- Multiple Page website
+- 5 different static hero styles.
+- 5 different animated card styles.
+- This includes unique and distinctful designs.
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -115,4 +118,6 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Pinterest | i get the picture to this to have a backgroud img | VianTibay.com |
+|Pinterest| This purpose statement helps frame the reference section as a valuable part of your README, showcasing where ideas and knowledge have been sourced from while giving credit to their creators. Adjust the statement to fit the specific context and resources relevant to your project.|https://www.pinterest.com|
+|W3 school|The use of W3Schools ensures that WD-Hands-on 2 benefits from reliable information and guidelines in web development, contributing to the project's quality and adherence to established standards.|https://www.w3schools.com|
+
