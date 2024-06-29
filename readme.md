@@ -13,7 +13,6 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-About Hero and Cards. "Cards" and the "hero" section are two often utilized web design elements that improve a website's usability and aesthetic appeal. As a major introduction or focus point, the hero section typically shows boldly at the top of a webpage. It's normally the first thing customers see when they visit the website and consists of a sizable background or image with text or call-to-action buttons.
 </div>
 
 <br />
